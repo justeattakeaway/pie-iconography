@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# except for the README and any .svg files
+!README.md
+!*.svg
+!**/
+!.gitignore
